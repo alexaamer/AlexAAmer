@@ -1,0 +1,26 @@
+body{
+	color: black;
+    background-color: beige;
+    line-height: 1.9em;
+    width: 80%;
+    margin: auto;
+
+
+}
+body{ font-family: "Lucida Console", "Courier New", monosace;
+}
+header{text-align: center;}
+.div { align-self: 5em 
+ }
+
+.box-1 { border-width: 0px;
+	     background-color: black;
+         border-left-color: yellow;
+         background-image: 'i.png'
+  }
+img {
+	align-self: middle;
+    margin: auto;
+    width: 95%;
+    }
+section {background-color: white;}
