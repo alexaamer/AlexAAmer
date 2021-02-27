@@ -10,8 +10,7 @@ body{
 body{ font-family: "Lucida Console", "Courier New", monosace;
 }
 header{text-align: center;}
-.div { align-self: 5em 
- }
+
 
 .box-1 { border-width: 0px;
 	     background-color: black;
@@ -23,4 +22,10 @@ img {
     margin: auto;
     width: 95%;
     }
+    .center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
 section {background-color: white;}
